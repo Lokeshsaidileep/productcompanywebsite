@@ -85,6 +85,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+~~~
 
 Product : 
 ~~~
@@ -204,9 +205,11 @@ Product :
     </div>
   </body>
 </html>
+~~~
 
 People : 
 
+~~~
 <!DOCTYPE html>
 <html>
     <head>
@@ -259,9 +262,10 @@ People :
           </div>
     </body>
 </html>
+~~~
 
 Contact : 
-
+~~~
 <!DOCTYPE html>
 <html>
     <head>
