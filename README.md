@@ -87,7 +87,7 @@ Publish the website in the given URL.
 </html>
 
 Product : 
-
+~~~
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -301,7 +301,7 @@ Contact :
           </div>
     </body>
 </html>
-~~
+~~~
 
 ## OUTPUT:
 
